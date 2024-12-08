@@ -1,0 +1,1171 @@
+html {
+    font-size: 100%;
+    scroll-behavior: smooth;
+    zoom: 80%;
+}
+
+@font-face {
+    font-family: 'Trovical Calm Free';
+    src: url(./fonts/TrovicalCalmFreeItalic-aYAZx.otf);
+}
+
+@font-face {
+    font-family: 'Chillax Variable' ;
+    src: url(./fonts/Chillax-Variable.ttf);
+}
+
+body { 
+    margin: 0;
+}
+
+.additionals {
+    position: absolute;
+    top: 2014px;
+    left: 169px;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    background-image:linear-gradient(45deg,black,black,rgb(101, 254, 132),#053301,#084e02,#0a6701,#0b8e00);
+    background-size: 400% 400%;
+    animation: animate 3s ease infinite;
+}
+.go-back {
+    position: absolute;
+    top: 1300px;
+    left: 1250px;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: black;
+    background-image:linear-gradient(45deg,black,black,rgb(101, 254, 132),#053301,#084e02,#0a6701,#0b8e00);
+    background-size: 400% 400%;
+    animation: animate 3s ease infinite;
+}
+
+.go-back:hover{
+    color: transparent;
+}
+.knowyourworth1-1-icon {
+    position: absolute;
+    top: 2307px;
+    left: 169px;
+    width: 763px;
+    height: 763px;
+    object-fit: cover;
+}
+.knowyourworthphoto-1-icon {
+    position: absolute;
+    top: 2307px;
+    left: 988px;
+    width: 763px;
+    height: 763px;
+    object-fit: cover;
+}
+.know-your-worth {
+    position: absolute;
+    top: 1126px;
+    left: 169px;
+    font-size: 128px;
+    display: inline-block;
+    width: 623px;
+}
+.group-project {
+    position: absolute;
+    top: 1426px;
+    left: 169px;
+    font-size: 36px;
+    font-family: 'Chillax Variable';
+    display: inline-block;
+    width: 576px;
+}
+.adobe-illustrator {
+    position: absolute;
+    top: 1896px;
+    left: 169px;
+    font-size: 36px;
+    font-family: 'Chillax Variable';
+    display: inline-block;
+    width: 576px;
+}
+.knowyourworth3-1-icon {
+    position: absolute;
+    top: 28px;
+    left: 447px;
+    width: 1025px;
+    height: 1025px;
+    object-fit: cover;
+}
+.showcase {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 1080px;
+    overflow: hidden;
+}
+.knowyourworth {
+    width: 100%;
+    position: relative;
+    background-color: #f3fff1;
+    height: 3186px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 250px;
+    color: #0b8e00;
+    font-family: 'Trovical Calm Free';
+}
+
+@keyframes animate{
+    0%{
+        background-position: 0 0;
+    }
+    25%{
+        background-position: 100% 0;
+    }
+    50%{
+        background-position: 100% 100%;
+    }
+    75%{
+        background-position: 0 100%;
+    }
+    100%{
+        background-position: 0 0;
+    }
+}
+
+a:link { 
+    text-decoration: none; 
+  } 
+  a:visited { 
+    text-decoration: none; 
+  } 
+  a:hover { 
+    text-decoration: none; 
+  } 
+  a:active { 
+    text-decoration: none; 
+  }
+
+  .beuter-doodle {
+    position: absolute;
+    top: 1118px;
+    left: 235px;
+    font-size: 128px;
+    display: inline-block;
+    width: 623px;
+}
+.doodle-project-ive {
+    position: absolute;
+    top: 1418px;
+    left: 235px;
+    font-family: 'Chillax Variable';
+    display: inline-block;
+    width: 576px;
+}
+.ink {
+    position: absolute;
+    top: 1888px;
+    left: 235px;
+    font-family: 'Chillax Variable';
+    display: inline-block;
+    width: 576px;
+}
+.dood2-1-icon {
+    position: absolute;
+    top: 52px;
+    left: 617px;
+    width: 685px;
+    height: 976px;
+    object-fit: cover;
+ }
+ 
+.showcase {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 1080px;
+    overflow: hidden;
+}
+.beuterdood {
+    width: 100%;
+    position: relative;
+    background-color: #f3fff1;
+    height: 1991px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 36px;
+    color: #0b8e00;
+    font-family: 'Trovical Calm Free';
+}
+
+.go-back-s {
+    position: absolute;
+    top: 1268px;
+    left: 1300px;
+    font-size: 250px;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: black;
+    background-image:linear-gradient(45deg,black,black,rgb(101, 254, 132),#053301,#084e02,#0a6701,#0b8e00);
+    background-size: 400% 400%;
+    animation: animate 3s ease infinite;
+    }
+
+.go-back-s:hover{
+    color: transparent;
+}
+
+.set-of {
+    margin: 0;
+}
+.set-of-icons-container {
+    position: absolute;
+    top: 1118px;
+    left: 235px;
+    font-size: 128px;
+    display: inline-block;
+    width: 623px;
+}
+.group-17- {
+    position: absolute;
+    top: 1418px;
+    left: 235px;
+    font-family: 'Chillax Variable';
+    display: inline-block;
+    width: 576px;
+}
+.adobe-illustrator {
+    position: absolute;
+    top: 1888px;
+    left: 235px;
+    font-family: 'Chillax Variable';
+    display: inline-block;
+    width: 576px;
+}
+
+.a1done-1-icon {
+    position: absolute;
+    top: 117px;
+    left: 400px;
+    width: 1120px;
+    height: 846px;
+    object-fit: cover;
+}
+
+.showcase {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 1080px;
+    overflow: hidden;
+}
+
+.a1icons {
+    width: 100%;
+    position: relative;
+    background-color: #f3fff1;
+    height: 1991px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 36px;
+    color: #0b8e00;
+    font-family: 'Trovical Calm Free';
+}
+
+.study {
+    margin: 0;
+}
+.clothes-study {
+    position: absolute;
+    top: 1118px;
+    left: 235px;
+    font-size: 128px;
+    display: inline-block;
+    width: 623px;
+}
+.doodle-project-on {
+    position: absolute;
+    top: 1418px;
+    left: 235px;
+    font-family: 'Chillax Variable';
+    display: inline-block;
+    width: 576px;
+}
+.ink {
+    position: absolute;
+    top: 1888px;
+    left: 235px;
+    font-family: 'Chillax Variable';
+    display: inline-block;
+    width: 576px;
+}
+.dood4-1-icon {
+    position: absolute;
+    top: 143px;
+    left: 362px;
+    width: 1195px;
+    height: 794px;
+    object-fit: cover;
+}
+.showcase {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 1080px;
+    overflow: hidden;
+}
+
+.clothes {
+    width: 100%;
+    position: relative;
+    background-color: #f3fff1;
+    height: 1991px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 36px;
+    color: #0b8e00;
+    font-family: 'Trovical Calm Free';
+}
+
+.pop-team {
+    margin: 0;
+}
+.pop-team-epic-container {
+    position: absolute;
+    top: 1118px;
+    left: 235px;
+    font-size: 128px;
+    display: inline-block;
+    width: 623px;
+}
+.random-thing-i {
+    position: absolute;
+    top: 1418px;
+    left: 235px;
+    font-family: 'Chillax Variable';
+    display: inline-block;
+    width: 576px;
+}
+.adobe-photoshop {
+    position: absolute;
+    top: 1888px;
+    left: 235px;
+    font-family: 'Chillax Variable';
+    display: inline-block;
+    width: 576px;
+}
+.perso5-1-icon {
+    position: absolute;
+    top: 34px;
+    left: 676px;
+    width: 568px;
+    height: 1012px;
+    object-fit: cover;
+}
+.showcase {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 1080px;
+    overflow: hidden;
+}
+
+.pte {
+    width: 100%;
+    position: relative;
+    background-color: #f3fff1;
+    height: 1991px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 36px;
+    color: #0b8e00;
+    font-family: 'Trovical Calm Free';
+}
+
+.convention {
+    margin: 0;
+}
+.handle-convention {
+    position: absolute;
+    top: 1126px;
+    left: 169px;
+    font-size: 128px;
+    display: inline-block;
+    width: 623px;
+}
+.group-17- {
+    position: absolute;
+    top: 1426px;
+    left: 169px;
+    font-size: 36px;
+    font-family: 'Chillax Variable';
+    display: inline-block;
+    width: 576px;
+}
+.adobe-illustrator {
+    position: absolute;
+    top: 1896px;
+    left: 169px;
+    font-size: 36px;
+    font-family: 'Chillax Variable';
+    display: inline-block;
+    width: 673px;
+}
+.a3ss-1-icon {
+    position: absolute;
+    top: 82px;
+    left: 315px;
+    width: 1290px;
+    height: 917px;
+    object-fit: cover;
+}
+.showcase {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 1080px;
+    overflow: hidden;
+}
+.ssa3-2-1-icon {
+    position: absolute;
+    top: 2283px;
+    left: 169px;
+    width: 1224px;
+    height: 733px;
+    object-fit: cover;
+}
+.ssa3-3-1-icon {
+    position: absolute;
+    top: 3062px;
+    left: 526px;
+    width: 1224px;
+    height: 729px;
+    object-fit: cover;
+}
+.handle {
+    width: 100%;
+    position: relative;
+    background-color: #f3fff1;
+    height: 3872px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 250px;
+    color: #0b8e00;
+    font-family: 'Trovical Calm Free';
+}
+
+.graffiti {
+    margin: 0;
+}
+.graffiti-org {
+    position: absolute;
+    top: 1126px;
+    left: 169px;
+    font-size: 128px;
+    display: inline-block;
+    width: 623px;
+}
+.high-school-field {
+    position: absolute;
+    top: 1426px;
+    left: 169px;
+    font-size: 36px;
+    font-family: 'Chillax Variable';
+    display: inline-block;
+    width: 576px;
+}
+.ink {
+    position: absolute;
+    top: 1896px;
+    left: 169px;
+    font-size: 36px;
+    font-family: 'Chillax Variable';
+    display: inline-block;
+    width: 576px;
+}
+.can1-1-icon {
+    position: absolute;
+    top: 98px;
+    left: 518px;
+    width: 884px;
+    height: 884px;
+    object-fit: cover;
+}
+.showcase {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 1080px;
+    overflow: hidden;
+}
+.can2-1-icon {
+    position: absolute;
+    top: 2307px;
+    left: 169px;
+    width: 518px;
+    height: 518px;
+    object-fit: cover;
+}
+.can4-1-icon {
+    position: absolute;
+    top: 2307px;
+    left: 1233px;
+    width: 518px;
+    height: 518px;
+    object-fit: cover;
+}
+.can3-1-icon {
+    position: absolute;
+    top: 2307px;
+    left: 701px;
+    width: 518px;
+    height: 518px;
+    object-fit: cover;
+}
+.can {
+    width: 100%;
+    position: relative;
+    background-color: #f3fff1;
+    height: 2903px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 250px;
+    color: #0b8e00;
+    font-family: 'Trovical Calm Free';
+}
+
+.self-portrait-video {
+    position: absolute;
+    top: 1126px;
+    left: 169px;
+    font-size: 128px;
+    display: inline-block;
+    width: 623px;
+}
+.group-ctrl- {
+    position: absolute;
+    top: 1426px;
+    left: 169px;
+    font-size: 36px;
+    font-family: 'Chillax Variable';
+    display: inline-block;
+    width: 576px;
+}
+.davinci-filming {
+    position: absolute;
+    top: 1896px;
+    left: 169px;
+    font-size: 36px;
+    font-family: 'Chillax Variable';
+    display: inline-block;
+    width: 576px;
+}
+.vidss-1-icon {
+    position: absolute;
+    top: 193px;
+    left: 226px;
+    width: 1467px;
+    height: 694px;
+    object-fit: cover;
+}
+.showcase {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 1080px;
+    overflow: hidden;
+}
+.ssvid3-1-icon {
+    position: absolute;
+    top: 3063px;
+    left: 137px;
+    width: 1613px;
+    height: 731px;
+    object-fit: cover;
+}
+.ssvid2-1-icon {
+    position: absolute;
+    top: 2265px;
+    left: 137px;
+    width: 1630px;
+    height: 733px;
+    object-fit: cover;
+}
+.vid {
+    width: 100%;
+    position: relative;
+    background-color: #f3fff1;
+    height: 3901px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 250px;
+    color: #0b8e00;
+    font-family: 'Trovical Calm Free';
+}
+
+.abstruck {
+    margin: 0;
+}
+.abstruck-art {
+    position: absolute;
+    top: 1118px;
+    left: 235px;
+    font-size: 128px;
+    display: inline-block;
+    width: 623px;
+}
+.doodle-project-with {
+    position: absolute;
+    top: 1418px;
+    left: 235px;
+    font-family: 'Chillax Variable';
+    display: inline-block;
+    width: 576px;
+}
+.tablet {
+    position: absolute;
+    top: 1888px;
+    left: 235px;
+    font-family: 'Chillax Variable';
+    display: inline-block;
+    width: 576px;
+}
+.dood6-1-icon {
+    position: absolute;
+    top: 89px;
+    left: 510px;
+    width: 900px;
+    height: 903px;
+    object-fit: cover;
+}
+.showcase {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 1080px;
+    overflow: hidden;
+}
+
+.huh {
+    width: 100%;
+    position: relative;
+    background-color: #f3fff1;
+    height: 1991px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 36px;
+    color: #0b8e00;
+    font-family: 'Trovical Calm Free';
+}
+
+.pssy-pickle {
+    position: absolute;
+    top: 1118px;
+    left: 235px;
+    font-size: 128px;
+    display: inline-block;
+    width: 623px;
+}
+.doodle-project-where {
+    position: absolute;
+    top: 1418px;
+    left: 235px;
+    font-family: 'Chillax Variable';
+    display: inline-block;
+    width: 576px;
+}
+.tablet {
+    position: absolute;
+    top: 1888px;
+    left: 235px;
+    font-family: 'Chillax Variable';
+    display: inline-block;
+    width: 576px;
+}
+.dood7-1-icon {
+    position: absolute;
+    top: 77px;
+    left: 497px;
+    width: 926px;
+    height: 926px;
+    object-fit: cover;
+}
+.showcase {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 1080px;
+    overflow: hidden;
+}
+
+.ppp {
+    width: 100%;
+    position: relative;
+    background-color: #f3fff1;
+    height: 1991px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 36px;
+    color: #0b8e00;
+    font-family: 'Trovical Calm Free';
+}
+
+.unfinished {
+    margin: 0;
+}
+.friends-unfinished {
+    position: absolute;
+    top: 1118px;
+    left: 235px;
+    font-size: 128px;
+    display: inline-block;
+    width: 623px;
+}
+.doodle-project-that {
+    position: absolute;
+    top: 1418px;
+    left: 235px;
+    font-family: 'Chillax Variable';
+    display: inline-block;
+    width: 576px;
+}
+.tablet {
+    position: absolute;
+    top: 1888px;
+    left: 235px;
+    font-family: 'Chillax Variable';
+    display: inline-block;
+    width: 576px;
+}
+.dood8-1-icon {
+    position: absolute;
+    top: 163px;
+    left: 290px;
+    width: 1340px;
+    height: 754px;
+    object-fit: cover;
+}
+.showcase {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 1080px;
+    overflow: hidden;
+}
+
+.friends {
+    width: 100%;
+    position: relative;
+    background-color: #f3fff1;
+    height: 1991px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 36px;
+    color: #0b8e00;
+    font-family: 'Trovical Calm Free';
+}
+
+.black-yellow {
+    position: absolute;
+    top: 1118px;
+    left: 235px;
+    font-size: 128px;
+    display: inline-block;
+    width: 623px;
+}
+.doodle-project-where {
+    position: absolute;
+    top: 1418px;
+    left: 235px;
+    font-family: 'Chillax Variable';
+    display: inline-block;
+    width: 576px;
+}
+.tablet {
+    position: absolute;
+    top: 1888px;
+    left: 235px;
+    font-family: 'Chillax Variable';
+    display: inline-block;
+    width: 576px;
+}
+.showcase {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 1080px;
+    overflow: hidden;
+}
+
+.dood9-1-icon {
+    position: absolute;
+    top: 135px;
+    left: 388px;
+    width: 1144px;
+    height: 810px;
+    object-fit: cover;
+}
+.yellow {
+    width: 100%;
+    position: relative;
+    background-color: #f3fff1;
+    height: 1991px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 36px;
+    color: #0b8e00;
+    font-family: 'Trovical Calm Free';
+}
+
+.random {
+    margin: 0;
+}
+.random-uno {
+    position: absolute;
+    top: 1118px;
+    left: 235px;
+    font-size: 128px;
+    display: inline-block;
+    width: 623px;
+}
+.idk-why-i {
+    position: absolute;
+    top: 1418px;
+    left: 235px;
+    font-family: 'Chillax Variable';
+    display: inline-block;
+    width: 576px;
+}
+.tablet {
+    position: absolute;
+    top: 1888px;
+    left: 235px;
+    font-family: 'Chillax Variable';
+    display: inline-block;
+    width: 576px;
+}
+.knowyourworth3-1 {
+    position: absolute;
+    top: 28px;
+    left: 447px;
+    width: 1025px;
+    height: 1025px;
+}
+.dood10-1-icon {
+    position: absolute;
+    top: 28px;
+    left: 657px;
+    width: 606px;
+    height: 968px;
+    object-fit: cover;
+}
+.showcase {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 1080px;
+    overflow: hidden;
+}
+
+.heh {
+    width: 100%;
+    position: relative;
+    background-color: #f3fff1;
+    height: 1991px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 36px;
+    color: #0b8e00;
+    font-family: 'Trovical Calm Free';
+}
+
+.random {
+    margin: 0;
+}
+.random-dos {
+    position: absolute;
+    top: 1118px;
+    left: 235px;
+    font-size: 128px;
+    display: inline-block;
+    width: 623px;
+}
+.i-still-dont {
+    position: absolute;
+    top: 1418px;
+    left: 235px;
+    font-family: 'Chillax Variable';
+    display: inline-block;
+    width: 576px;
+}
+.tablet {
+    position: absolute;
+    top: 1888px;
+    left: 235px;
+    font-family: 'Chillax Variable';
+    display: inline-block;
+    width: 576px;
+}
+.showcase {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 1080px;
+    overflow: hidden;
+}
+
+.dood11-1-icon {
+    position: absolute;
+    top: 42px;
+    left: 622px;
+    width: 675px;
+    height: 996px;
+    object-fit: cover;
+}
+.hah {
+    width: 100%;
+    position: relative;
+    background-color: #f3fff1;
+    height: 1991px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 36px;
+    color: #0b8e00;
+    font-family: 'Trovical Calm Free';
+}
+
+.ye {
+    margin: 0;
+}
+.ye-bolin {
+    position: absolute;
+    top: 1118px;
+    left: 235px;
+    font-size: 128px;
+    display: inline-block;
+    width: 623px;
+}
+.high-school-project {
+    position: absolute;
+    top: 1418px;
+    left: 235px;
+    font-family: 'Chillax Variable';
+    display: inline-block;
+    width: 576px;
+}
+.adobe-photoshop {
+    position: absolute;
+    top: 1888px;
+    left: 235px;
+    font-family: 'Chillax Variable';
+    display: inline-block;
+    width: 576px;
+}
+.perso1-1-icon {
+    position: absolute;
+    top: 101px;
+    left: 300px;
+    width: 1320px;
+    height: 878px;
+    object-fit: cover;
+}
+.showcase {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 1080px;
+    overflow: hidden;
+}
+
+.liubolin {
+    width: 100%;
+    position: relative;
+    background-color: #f3fff1;
+    height: 1991px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 36px;
+    color: #0b8e00;
+    font-family: 'Trovical Calm Free';
+}
+
+.summer {
+    margin: 0;
+}
+.summer-feels {
+    position: absolute;
+    top: 1118px;
+    left: 235px;
+    font-size: 128px;
+    display: inline-block;
+    width: 623px;
+}
+.high-school-project {
+    position: absolute;
+    top: 1418px;
+    left: 235px;
+    font-family: 'Chillax Variable';
+    display: inline-block;
+    width: 576px;
+}
+.adobe-photoshop {
+    position: absolute;
+    top: 1888px;
+    left: 235px;
+    font-family: 'Chillax Variable';
+    display: inline-block;
+    width: 576px;
+}
+.perso2-1-icon {
+    position: absolute;
+    top: 89px;
+    left: 573px;
+    width: 774px;
+    height: 903px;
+    object-fit: cover;
+}
+.showcase {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 1080px;
+    overflow: hidden;
+}
+
+.smfeel {
+    width: 100%;
+    position: relative;
+    background-color: #f3fff1;
+    height: 1991px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 36px;
+    color: #0b8e00;
+    font-family: 'Trovical Calm Free';
+}
+
+.ye {
+    margin: 0;
+}
+.ye-kiet-container {
+    position: absolute;
+    top: 1118px;
+    left: 235px;
+    font-size: 128px;
+    display: inline-block;
+    width: 623px;
+}
+.photoshop-from-some {
+    position: absolute;
+    top: 1418px;
+    left: 235px;
+    font-family: 'Chillax Variable';
+    display: inline-block;
+    width: 576px;
+}
+.adobe-photoshop {
+    position: absolute;
+    top: 1888px;
+    left: 235px;
+    font-family: 'Chillax Variable';
+    display: inline-block;
+    width: 576px;
+}
+.showcase {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 1080px;
+    overflow: hidden;
+}
+
+.perso3-1-icon {
+    position: absolute;
+    top: 56px;
+    left: 572px;
+    width: 775px;
+    height: 969px;
+    object-fit: cover;
+}
+.kiet {
+    width: 100%;
+    position: relative;
+    background-color: #f3fff1;
+    height: 1991px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 36px;
+    color: #0b8e00;
+    font-family: 'Trovical Calm Free';
+}
+
+.save-the-planet {
+    position: absolute;
+    top: 1118px;
+    left: 235px;
+    font-size: 128px;
+    display: inline-block;
+    width: 623px;
+}
+.high-school-project {
+    margin: 0;
+}
+.high-school-project-container {
+    position: absolute;
+    top: 1418px;
+    left: 235px;
+    font-family: 'Chillax Variable';
+    display: inline-block;
+    width: 576px;
+}
+.photo {
+    position: absolute;
+    top: 1888px;
+    left: 235px;
+    font-family: 'Chillax Variable';
+    display: inline-block;
+    width: 576px;
+}
+.perso4-1-icon {
+    position: absolute;
+    top: 106px;
+    left: 370px;
+    width: 1180px;
+    height: 869px;
+    object-fit: cover;
+}
+.showcase {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 1080px;
+    overflow: hidden;
+}
+
+.phto {
+    width: 100%;
+    position: relative;
+    background-color: #f3fff1;
+    height: 1991px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 36px;
+    color: #0b8e00;
+    font-family: 'Trovical Calm Free';
+}
